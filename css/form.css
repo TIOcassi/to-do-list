@@ -17,11 +17,11 @@
 
 .form__button {
     padding: 10px;
-    background-color: hsl(34, 39%, 75%);
+    background-color: hsl(34, 39%, 45%);
     color: white;
     border: none;
 }
 
 .form__button:hover {
-    background-color: hsl(34, 39%, 80%);
+    background-color: hsl(34, 39%, 50%);
 }
