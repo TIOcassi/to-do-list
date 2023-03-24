@@ -16,3 +16,4 @@ Simple page that you can use to add tasks and then delete them and check if they
 - BEM
 - ES 6 Features
 - Grid
+- Flex
