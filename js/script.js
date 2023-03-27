@@ -76,7 +76,6 @@ const renderTasks = () => {
         🗑️
     </button> 
         </li>
-    };
     `;
 
     const tasksElement = document.querySelector(".js-tasks");
