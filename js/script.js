@@ -123,9 +123,6 @@ const render = () => {
     bindEvents();
     bindButtonsEvents();
 }
-const test = () => {
-    
-}
 
 const onFormSubmit = (event) => {
     event.preventDefault();
