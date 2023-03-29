@@ -118,10 +118,10 @@ const bindButtonsEvents = () => {
 };
 
 const render = () => {
-    bindButtonsEvents();
     renderButtons();
     renderTasks();
     bindEvents();
+    bindButtonsEvents();
 }
 
 const onFormSubmit = (event) => {
